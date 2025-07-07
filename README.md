@@ -1,3 +1,3 @@
 # Nos0k off
-<https://fotora.ru/uploaded/?ID=OSFJJ07072025141138>
+<6fdcdab8cd88a98955768b37be8cf91125e68484>
 repository with projects from Nos0k

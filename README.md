@@ -1,3 +1,3 @@
 # Nos0k off
-<6fdcdab8cd88a98955768b37be8cf91125e68484>
+<https://github.com/Nos0kCC/Nos0k-off/blob/main/1647114377430429_Da6rAceV.jpg?raw=true>
 repository with projects from Nos0k
